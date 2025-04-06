@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "supertest": "^7.1.0",
+    "test": "^3.3.0"
+  }
+}
